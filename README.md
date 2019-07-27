@@ -1,4 +1,4 @@
-<h3 align="center>cmdfetch 0.01A</h3>
+<h3 align="center">cmdfetch 0.01A</h3>
 <p align="center">A screenfetch/neofetch clone, it gathers information about your system from the command line.</p>
 
 cmdfetch is a program designed to gather system information. Cmdfetch will display information about your OS, software, hardware, etc, in a nice convenient way.
