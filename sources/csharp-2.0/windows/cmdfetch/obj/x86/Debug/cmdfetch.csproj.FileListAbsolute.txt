@@ -1,4 +1,0 @@
-e:\users\admin\documents\visual studio 2010\Projects\cmdfetch\cmdfetch\bin\Debug\cmdfetch.exe
-e:\users\admin\documents\visual studio 2010\Projects\cmdfetch\cmdfetch\bin\Debug\cmdfetch.pdb
-e:\users\admin\documents\visual studio 2010\Projects\cmdfetch\cmdfetch\obj\x86\Debug\cmdfetch.exe
-e:\users\admin\documents\visual studio 2010\Projects\cmdfetch\cmdfetch\obj\x86\Debug\cmdfetch.pdb
