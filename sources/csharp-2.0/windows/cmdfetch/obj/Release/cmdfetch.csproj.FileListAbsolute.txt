@@ -1,0 +1,4 @@
+e:\users\admin\documents\visual studio 2010\Projects\cmdfetch\cmdfetch\bin\Release\cmdfetch.exe
+e:\users\admin\documents\visual studio 2010\Projects\cmdfetch\cmdfetch\bin\Release\cmdfetch.pdb
+e:\users\admin\documents\visual studio 2010\Projects\cmdfetch\cmdfetch\obj\Release\cmdfetch.exe
+e:\users\admin\documents\visual studio 2010\Projects\cmdfetch\cmdfetch\obj\Release\cmdfetch.pdb
